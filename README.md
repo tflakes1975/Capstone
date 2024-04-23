@@ -1,7 +1,7 @@
 # The African American single parent
 
 ## Table of Contents
-* [Power BI Dashboard](#Tableau-dashboard)
+* [Power BI Dashboard](#Power BI-dashboard)
 * [Motivation](#motivation)
 * [Questions](#questions)
 * [Normalizing the Data](#normaling-the-data)
@@ -25,7 +25,11 @@ I am an African American single mom. I have never been married and I have two ch
 
 ##Problems and Huddles
 
-##Technologies used
+##Technologies used	
+Excel
+Python
+Power BI
+
 
 
 ##Sources
