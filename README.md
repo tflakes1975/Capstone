@@ -33,8 +33,8 @@ I used multiple data sets from the U.S census. The one by state was from 2020 an
 The first table that I had downloaded from the Census was very chaotic. I had a hard time separating the information that I had because the table was stacked on top of each other horizontally and I needed to the information vertically. There were duplicate rows in one of my datasets that I did not realize until I had downloaded them into Power BI to do the visuals. I had to investigate and go back and change all the tables that I joined on with this table. This also meant redoing correlations in python as well. There were so many numbers and correlation coefficients that I transposed some of the numbers. This was found and corrected. I had a total of 19 tables once everything was cleaned up. 
 
 ## Technologies used	
-Excel
-Python
+Excel,
+Python, and
 Power BI
 
 
